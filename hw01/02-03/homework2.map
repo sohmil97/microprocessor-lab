@@ -1,0 +1,14 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+ledCount                                                          R4,R5        2
+ledNum                                                            R6,R7        2
+i                                                                 R8,R9        2
