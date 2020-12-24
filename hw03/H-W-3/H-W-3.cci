@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:52240C54
+NODE:I LEVEL:0 LINE:1 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:6 "C:\cvavr2\inc\lcd.h"
+NODE:I LEVEL:0 LINE:7 "C:\cvavr2\inc\stdlib.h"
+NODE:M LEVEL:0 LINE:8 "ICP_EN"
+NODE:V LEVEL:0 LINE:10 "alpha_pointer_G000 -> RAM:????"
+NODE:V LEVEL:0 LINE:12 "timer1_counter_G000 -> RAM:????"
+NODE:C LEVEL:0 LINE:13 "TIMER1_VALUE -> FLASH"
+NODE:F LEVEL:0 LINE:15 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:21 "timer1_capt_isr(void)"
+NODE:F LEVEL:0 LINE:50 "main(void)"
