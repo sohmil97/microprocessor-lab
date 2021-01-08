@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:522F0101
+NODE:I LEVEL:0 LINE:1 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr2\inc\delay.h"
+NODE:V LEVEL:0 LINE:4 "flag -> R2.0"
+NODE:V LEVEL:0 LINE:5 "states -> RAM:????"
+NODE:V LEVEL:0 LINE:6 "currentPosition -> R4,R5"
+NODE:V LEVEL:0 LINE:7 "TimerOverFlowCounter -> R6,R7"
+NODE:F LEVEL:0 LINE:8 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:47 "main(void)"
